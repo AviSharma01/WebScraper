@@ -1,6 +1,6 @@
 # Voice Assistant
 
-## The voice assistant created using Python, incorporates Web Scraping to help in tasks.
+The voice assistant created using Python, incorporates Web Scraping to help in tasks.
 
 ### The tasks that the voice assistant can help in are as follows:
 1. Get weather information for a particular city
